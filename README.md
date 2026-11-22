@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Catatan & Materi Kuliah</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      max-width: 780px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.65;
+      color: #1f2937;
+    }
+    h1, h2 { line-height: 1.3; }
+    a { color: #0f4c81; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    ul { padding-left: 20px; }
+  </style>
+</head>
+<body>
+  <h1>Catatan &amp; Materi Kuliah</h1>
+  <p>Kumpulan ringkasan konsep, poin penting, dan studi kasus untuk rujukan cepat.</p>
+
+  <h2>Daftar Topik</h2>
+  <ul>
+    <li><a href="topik-1.html">Topik 1: Judul Materi Pertama</a></li>
+  </ul>
+</body>
+</html>
